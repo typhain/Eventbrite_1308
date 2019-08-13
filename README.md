@@ -2,7 +2,7 @@
 
 ## Eventbrite
 
-Go to https://eventbrite-4.herokuapp.com
+Go to https://eventbrite-1308.herokuapp.com/
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
